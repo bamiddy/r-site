@@ -1,4 +1,4 @@
-# website-template
+# website2
 
 [Video tutorial](https://youtu.be/YN75YXaLFGM)
 
